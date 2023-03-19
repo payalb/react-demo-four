@@ -8,3 +8,9 @@ nav component
 <li>Contact</li>
 </ul>
 </nav>
+
+JSX: regular html code, that we write inside return.
+To return multiple lines, use ()
+ 
+Must have one root element. If u don't have, enter empty tags called fragments.
+We cannot use class for css styling. Reserved keyword in javascript. So we use className.
